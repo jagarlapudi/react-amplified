@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To add Contribution to this project
+
+Step 1: Create a New Feature branch from ### `Dev /feature/NewBranch` and do pull request to Dev branch
+Step 2: Once approved/merged - Code will be automatically deployed to Dev branch using AWS Amplify.
+Step 3: Verify your changes in https://dev.adhvikj.com and once changes are verified, merge code to master repo.
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
